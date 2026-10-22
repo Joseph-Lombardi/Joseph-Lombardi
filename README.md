@@ -1,10 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img src="assets/banner-dark.svg" width="100%" alt="Joseph Lombardi — Artificial Intelligence, Data Analysis & IoT">
-</picture>
+<img src="assets/banner-dark.svg" width="100%" alt="Joseph Lombardi — portrait in ASCII art and terminal profile.yml">
 
 **Ingeniería Informática · UPCH · Sexto ciclo**  
 **Computer Engineering · UPCH · Sixth semester**
