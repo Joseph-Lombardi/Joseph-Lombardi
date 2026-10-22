@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner-dark.svg" width="100%" alt="Joseph Lombardi — portrait in ASCII art and terminal profile.yml">
+<img src="assets/banner-dark.v10.svg" width="100%" alt="Joseph Lombardi — animated portrait, Docker and neural network">
 
 **Ingeniería Informática · UPCH · Sexto ciclo**  
 **Computer Engineering · UPCH · Sixth semester**
